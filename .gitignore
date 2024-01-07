@@ -1,0 +1,15 @@
+admin/
+ajax/
+assets/
+css/
+forms/
+images/
+media/
+build_own_details.php
+build_own.php
+build_own(8.6.18).php
+build_own(12.6.18).php
+build_own(19.11.15).php
+build_own(20.10.18).php
+finalize_bid.php
+
